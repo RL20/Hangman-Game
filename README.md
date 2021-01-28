@@ -12,11 +12,10 @@ you need  english_words_set from english_words Package (I have already written a
 
  • Run from console/terminal (Open the terminal from the location where the file is located)
 
- • type the command "python hangman_game" in your trminal 
+ • type the command "python hangman_game" in your terminal 
 
  • run 
 
-please make sure you download the Requirements appear below 
 
 [alternative]
 
